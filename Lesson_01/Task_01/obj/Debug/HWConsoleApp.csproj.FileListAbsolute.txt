@@ -1,0 +1,8 @@
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\HWConsoleApp\bin\Debug\HWConsoleApp.exe.config
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\HWConsoleApp\bin\Debug\HWConsoleApp.exe
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\HWConsoleApp\bin\Debug\HWConsoleApp.pdb
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\HWConsoleApp\obj\Debug\HWConsoleApp.csproj.AssemblyReference.cache
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\HWConsoleApp\obj\Debug\HWConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\HWConsoleApp\obj\Debug\HWConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\HWConsoleApp\obj\Debug\HWConsoleApp.exe
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\HWConsoleApp\obj\Debug\HWConsoleApp.pdb

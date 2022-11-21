@@ -1,0 +1,8 @@
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\Task2\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\aser\Desktop\SkillBox VR Разработчик\C#\Lesson1\Task2\Task2\obj\Debug\Task2.pdb
